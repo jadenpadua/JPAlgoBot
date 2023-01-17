@@ -1,9 +1,8 @@
-//
-//  main.cpp
-//  JPAlgoBot
-//
-//  Created by Jaden Padua on 1/16/23.
-//
+/**
+ * @file: main.cpp
+ * @description: Main method of execution for bot
+ * @author: Jaden Padua
+ */
 
 #include <iostream>
 
